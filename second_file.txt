@@ -1,2 +1,6 @@
 Second file to see if untracked
+
 "edit in second file in master"
+
+"Editing second file"
+
